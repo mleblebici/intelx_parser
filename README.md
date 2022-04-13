@@ -1,5 +1,5 @@
 # intelx_parser
-Extract leaked credentials from intelx search results to excel file
+Export leaked credentials from intelx search results to excel file
 
 ```
 usage: intelx_parser.py [-h] --domain example.com --apikey xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx [--extract EXTRACT]
