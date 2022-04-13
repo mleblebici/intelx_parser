@@ -1,5 +1,4 @@
 from intelxapi import intelx
-import sys
 from os import listdir, mkdir, path, remove, rmdir, linesep
 import xlsxwriter
 import argparse
